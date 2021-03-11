@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  background: rgba(0, 0, 0, 0.07);
+}
+/*
+<FormControl fullWidth>
+        <InputLabel htmlFor="style">Background Style</InputLabel>
+        <Select
+          value={settings.backgroundStyle}
+          onChange={e => setField('backgroundStyle', valueFrom(e))}
+          input={<Input name="style" />}
+        >
+          <MenuItem value="solid">Solid</MenuItem>
+          <MenuItem value="gradient">Gradient</MenuItem>
+          <MenuItem value="topo">Topography</MenuItem>
+          <MenuItem value="triangles">Triangles</MenuItem>
+        </Select>
+      </FormControl>
+
+       <FormControlLabel
+        control={
+          <Switch
+            checked={settings.showInitials}
+            onChange={(e, checked) => setField('showInitials', checked)}
+          />
+        }
+        label="Show Initials"
+      />
+*/

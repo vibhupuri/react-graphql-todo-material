@@ -1,0 +1,27 @@
+{
+  "name": "react-graphql-todo-material",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@material-ui/core": "3.3.0",
+    "@material-ui/icons": "3.0.0",
+    "apollo-boost": "0.4.3",
+    "color-hash": "^1.0.3",
+    "graphql": "15.5.0",
+    "material-color-hash": "^0.1.4",
+    "polished": "^1.9.2",
+    "react": "16.8.0",
+    "react-apollo": "2.5.8",
+    "react-dom": "16.8.0",
+    "react-scripts": "1.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
